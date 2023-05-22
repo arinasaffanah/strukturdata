@@ -7,8 +7,7 @@ struct Karyawan
     char id[10];      // input
     char name[20];    // input
     string typeStaff; // input (1/2) (permanen & tdk permanen)
-    float tipe;
-    string status; // input (1/2)
+    string status;    // input (1/2)
     float statusAkhir;
     string position;
 };

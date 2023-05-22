@@ -9,7 +9,7 @@
     F --> H{Pilih Status};
     G --> H{Pilih Status};
     H --1--> I[/Menikah/];
-    H --1--> J[/Belum Menikah/];
+    H --2--> J[/Belum Menikah/];
     I --> K[/Input Jam Lembur/];
     J --> K[/Input Jam Lembur/];
     K --> L[/Pilih Posisi/Jabatan/];
