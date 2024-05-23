@@ -1,6 +1,6 @@
 # Project Struktur Data Kelompok 3
 
-Project Name : Aplikasi Sederhana Peminjaman Fasilitas Kantor
+Nama Project : Aplikasi Sederhana Peminjaman Fasilitas Kantor
 
 Anggota Kelompok :
 - Arina Saffanah Zakiyyah
